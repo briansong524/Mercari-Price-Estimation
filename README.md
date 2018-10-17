@@ -25,6 +25,8 @@ Using item description and meta-data, estimate the price of the listed items. Tw
 
 ## Files
 
+**Mercari Price Suggestion - Analysis .ipynb** - preliminary analysis of the data 
+
 #### In directory 'ensemble_learning':
 
 **cleaning.py** - cleans original training data and dumps important variables as multiple pickle files
@@ -40,6 +42,12 @@ Using item description and meta-data, estimate the price of the listed items. Tw
 **main.py** - clean and train a CNN model.
 
 **utils.py** - many used methods stored in a separate file for cleanliness
+
+**keras cnn kaggle_person.ipynb** - reference code from some person's kernel
+
+**keras cnn rnn,ipynb** - code used to play around with cnn and rnn
+
+**tensorflow clean NN v05 - RNN.ipynb** - using Tensorflow to run RNN on text  
 
 ## How to use
 
